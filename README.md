@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther Ogutu</h1>
-<h3 align="center">A passionate data scientist from Kenya</h3>
+<h3 align="center">A passionate Data Scientist from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estherogutu&label=Profile%20views&color=0e75b6&style=flat" alt="estherogutu" /> </p>
 
